@@ -1,0 +1,24 @@
+{
+    "name": "Brunnen",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Grove": "github:calliope-edu/pxt-grove#v0.2.7",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
